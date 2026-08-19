@@ -1,0 +1,12 @@
+server.port=8082
+
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+
+spring.mail.username=jyotheeshreddy2001@gmail.com
+spring.mail.password=hqlj mnrd hcef klrl
+
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka
